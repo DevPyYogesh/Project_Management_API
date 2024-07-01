@@ -128,3 +128,9 @@ please open an issue first to discuss what you would like to change.
 ## License
 
 This project is licensed under the MIT Lice
+
+## Contact
+
+Yogesh Jagtap - [yj.yogeshjagtap@gmail.com](mailto:yj.yogeshjagtap@gmail.com)
+
+Project Link: [https://github.com/DevPyYogesh/Project_Management_API.git](https://github.com/DevPyYogesh/Project_Management_API.git)
